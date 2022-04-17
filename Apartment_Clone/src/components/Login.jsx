@@ -9,7 +9,7 @@ const [email , setUsername] = React.useState("");
 const [password , setPassword] = React.useState("");
 const dispatch = useDispatch();
 
-const navigate = useNavigate() ; 
+const navigate = useNavigate() ; navigate
 const handleSubmit = () => {
     const userDetail = {
         email,
