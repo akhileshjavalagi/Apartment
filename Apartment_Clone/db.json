@@ -1,0 +1,26 @@
+{
+    "apartments":
+    [
+    {
+        "id": 1,
+        "Type": "Owner",
+        "Block": "A",
+        "Number": 4,
+        "Residents": 10
+           
+    },{
+        "id": 2,
+        "Type": "Rent",
+        "Block": "B",
+        "Number": 8,
+        "Residents": 8
+    },
+    {
+        "id": 3,
+        "Type": "Rent",
+        "Block": "D",
+        "Number": 7,
+        "Residents": 10
+    }
+]
+}
